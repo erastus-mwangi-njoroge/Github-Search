@@ -1,27 +1,36 @@
-# GithubUsername
+# Github-username
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+## Description
+A website that mimics the functionality of github. 
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
-## Code scaffolding
+---
+#Link to repository
+(https://github.com/indomitable-core/Github-username)
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Technologies used are;
+* HTML
+* Type Script
+* Bootstrap
+* css
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## To setup and run the project you need to :
 
-## Running unit tests
+* Open GitHub and search indomitable-core 
+* Then locate the repository 
+* Download or Clone the repository
+* Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Feel free to explore my other repositories!
+* Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). For End To End Tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+Copyright and License
+MIT @ Erastus Njoroge
+2021
